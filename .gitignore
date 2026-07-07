@@ -1,5 +1,5 @@
 # Binaries
-pixelforge
+/pixelforge
 *.exe
 *.exe~
 *.dll
