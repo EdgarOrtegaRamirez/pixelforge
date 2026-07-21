@@ -1,6 +1,6 @@
 module github.com/EdgarOrtegaRamirez/pixelforge
 
-go 1.24.0
+go 1.25
 
 require (
 	github.com/disintegration/imaging v1.6.2
